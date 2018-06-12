@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><User>
+        
+    <Budget>
+                
+        <ElectricUsageBudget>1000.0</ElectricUsageBudget>
+                
+        <ElectricCostBudget>2.33</ElectricCostBudget>
+                
+        <GasUsageBudget>22000.0</GasUsageBudget>
+                
+        <GasCostBudget>2.331</GasCostBudget>
+            
+    </Budget>
+    
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>5</Month>
+            <Day>9</Day>
+            <Time>10:46:46</Time>
+            <Week>19</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>1</ElectricUsage>
+            <ElectricCost>2.0</ElectricCost>
+            <ElectricTariff>2.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>5</Month>
+            <Day>19</Day>
+            <Time>01:46:46</Time>
+            <Week>9</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>1</ElectricUsage>
+            <ElectricCost>200.0</ElectricCost>
+            <ElectricTariff>100.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>3</Month>
+            <Day>9</Day>
+            <Time>10:11:46</Time>
+            <Week>1</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>11</ElectricUsage>
+            <ElectricCost>22.0</ElectricCost>
+            <ElectricTariff>2.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <GRecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>4</Month>
+            <Day>29</Day>
+            <Time>04:46:46</Time>
+            <Week>5</Week>
+        </Timestamp>
+        <Usage>
+            <GasUsage>3.0</GasUsage>
+            <GasCost>120.0</GasCost>
+            <GasTariff>40.0</GasTariff>
+        </Usage>
+    </GRecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>4</Month>
+            <Day>19</Day>
+            <Time>09:46:06</Time>
+            <Week>17</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>1</ElectricUsage>
+            <ElectricCost>4.0</ElectricCost>
+            <ElectricTariff>4.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <GRecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>8</Month>
+            <Day>17</Day>
+            <Time>12:46:46</Time>
+            <Week>18</Week>
+        </Timestamp>
+        <Usage>
+            <GasUsage>16.0</GasUsage>
+            <GasCost>64.0</GasCost>
+            <GasTariff>4.0</GasTariff>
+        </Usage>
+    </GRecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>8</Month>
+            <Day>12</Day>
+            <Time>22:46:46</Time>
+            <Week>11</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>1</ElectricUsage>
+            <ElectricCost>22.0</ElectricCost>
+            <ElectricTariff>22.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+            <Time>10:24:46</Time>
+            <Week>15</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>1</ElectricUsage>
+            <ElectricCost>2.0</ElectricCost>
+            <ElectricTariff>2.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <GRecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>2</Day>
+            <Time>10:28:46</Time>
+            <Week>12</Week>
+        </Timestamp>
+        <Usage>
+            <GasUsage>3.0</GasUsage>
+            <GasCost>123.0</GasCost>
+            <GasTariff>41.0</GasTariff>
+        </Usage>
+    </GRecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>4</Month>
+            <Day>29</Day>
+            <Time>17:46:46</Time>
+            <Week>19</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>2</ElectricUsage>
+            <ElectricCost>28.0</ElectricCost>
+            <ElectricTariff>14.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+    <ERecord>
+        <Timestamp>
+            <Year>2018</Year>
+            <Month>8</Month>
+            <Day>19</Day>
+            <Time>15:46:46</Time>
+            <Week>7</Week>
+        </Timestamp>
+        <Usage>
+            <ElectricUsage>3</ElectricUsage>
+            <ElectricCost>72.0</ElectricCost>
+            <ElectricTariff>24.0</ElectricTariff>
+        </Usage>
+    </ERecord>
+
+</User>
